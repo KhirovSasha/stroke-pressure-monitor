@@ -1,2 +1,2 @@
-./telegram-bot/node_modules
-./telegram-bot/package-lock.json
+/telegram-bot/node_modules
+/telegram-bot/package-lock.json
